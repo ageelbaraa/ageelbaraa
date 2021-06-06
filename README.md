@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm baraa
 
 [![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
-[![https://hugoextrat.com](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)](https://hugoextrat.com)
+[![](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)]()
 [![https://github.com/ageelbaraa](https://img.shields.io/badge/sponsor-me-blue?style=for-the-badge)](https://github.com/ageelbaraa)
 [![ageelbaraa@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
 
