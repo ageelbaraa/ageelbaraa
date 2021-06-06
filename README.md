@@ -1,6 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=huextrat&show_icons=true&theme=synthwave">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave">
 
-### Hi there 👋 I'm ageel
+### Hi there 👋 I'm baraa
 
 [![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
 [![https://hugoextrat.com](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)](https://hugoextrat.com)
