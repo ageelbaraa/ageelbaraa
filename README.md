@@ -7,7 +7,7 @@
 [![https://github.com/ageelbaraa](https://img.shields.io/badge/sponsor-me-blue?style=for-the-badge)](https://github.com/ageelbaraa)
 [![ageelbaraa@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
 
-👨‍💻 Mobile app developer at [SQLI](https://sqli.com/) & Mentor for the Android developer course on [OpenClassrooms](https://openclassrooms.com/)
+👨‍💻 Mobile app developer at [SDKJordan](https://sdkjordan.com/) & Web developer course .
 
 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Flutter/Dart with UI projects, packages, ...
 
