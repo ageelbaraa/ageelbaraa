@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ageelbaraa/count.svg" />
+</p>
