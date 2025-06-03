@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Software Engineer Banner" width="800">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageelbaraa&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
 </p>
 
 ### Hi there 👋 I'm Albara Mustafa!
@@ -54,11 +54,6 @@ Connect with me and explore my work:
 [![See My Work on GitHub](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/ageelbaraa)
 [![Email Me](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
 <p align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave&hide_border=true" alt="Albara's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageelbaraa&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
-  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=ageelbaraa&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
