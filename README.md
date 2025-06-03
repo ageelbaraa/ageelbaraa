@@ -1,34 +1,34 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave" width="400">
 
-### Hi there 👋 I'm baraa
+# 👋 Hello! I'm Baraa Aqeel
 
-[![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
-[![](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)]()
-[![https://github.com/ageelbaraa](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/ageelbaraa)
-[![ageelbaraa@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ageelbaraa)
+[![Portfolio](https://img.shields.io/badge/visit-portfolio-orange?style=for-the-badge&logo=google-chrome)](https://your-website.com)
+[![GitHub](https://img.shields.io/badge/see-mywork-blue?style=for-the-badge&logo=github)](https://github.com/ageelbaraa)
+[![Gmail](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
 
-👨‍💻 Mobile app developer at [SDKJordan](https://sdkjordan.com/) & Web developer course.
+---
 
-<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Flutter/Dart/ASP .NET/PHP with UI projects, packages, ...
+🎯 **Senior Software Engineer** with a strong track record in designing, building, and scaling **e-commerce**, **logistics**, and **SaaS platforms** using modern full-stack technologies.
 
+🚀 Backend specialist in **.NET 8**, **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**, applying **clean architecture** and **design patterns** (CQRS, MediatR, Factory, Singleton).
 
+📱 Cross-platform mobile app developer using **Flutter**, including deep integration with device hardware, BLE, and native SDKs (e.g., Phomemo, DJI).
 
-<!--
-**ageelbaraa/ageelbaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skilled in building real-time systems with **MQTT**, **WebSockets**, **SignalR**, and notification services spanning dashboards, users, and in-app communication.
 
-Here are some ideas to get you started:
+🧩 Passionate about creating **modular**, **API-first**, and **well-documented** codebases using tools like Swagger, Postman, and GitHub Actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Lifelong learner — currently exploring **AI integration** in business logic, **state management patterns in Flutter**, and **Azure Developer Certification**.
 
-<p > 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ageelbaraa/count.svg" />
-</p>
+---
+
+### 🛠 Tech Stack & Tools
+```bash
+💻 .NET 8, ASP.NET Core, MVC, Razor, Blazor, EF Core  
+📱 Flutter, Dart, Provider, Riverpod, Platform Channels  
+🛢️ SQL Server, PostgreSQL, LINQ, Dapper  
+📡 MQTT, WebSockets, REST APIs  
+🛠️ Git, GitHub, Azure DevOps, Docker  
+📈 Metronic, TailwindCSS, Bootstrap  
+🌐 OAuth2, TikTok API, LinkedIn API, Firebase Auth  
