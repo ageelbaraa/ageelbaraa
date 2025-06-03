@@ -51,6 +51,7 @@ Connect with me and explore my work:
 [![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
 [![See My Work on GitHub](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/ageelbaraa)
 [![Email Me](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
+
 <p align="center">
   <br>
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ageelbaraa&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
