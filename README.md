@@ -1,4 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave">
+<p align="center">
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Software Engineer Banner" width="800">
+</p>
 
 ### Hi there 👋 I'm Albara Mustafa!
 
@@ -51,6 +53,12 @@ Connect with me and explore my work:
 [![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
 [![See My Work on GitHub](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/ageelbaraa)
 [![Email Me](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
+<p align="center">
+  <br>
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ageelbaraa&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageelbaraa&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ageelbaraa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <p align="center">
   Visitor count<br>
