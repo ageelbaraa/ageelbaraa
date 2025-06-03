@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave&hide_title=false&hide_border=false&count_private=true&include_all_commits=true" width="420"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave">
 
 ### Hi there 👋 I'm Albara Mustafa!
 
@@ -8,37 +8,32 @@ A passionate **Team Leader / Senior Software Engineer** with a strong track reco
 
 ### 🚀 About Me
 
-* **My Mission:** To craft elegant, efficient, and maintainable software that solves real-world problems. I'm deeply committed to **Domain-Driven Design (DDD)** and **Clean Architecture** principles, ensuring long-term project health and adaptability.
-* **What I Do:**
-    * Lead and mentor development teams, driving projects from conception to successful deployment.
-    * Design and implement **microservices** and **modular monolithic** architectures using **ASP.NET Core** and **Flutter**.
-    * Integrate complex systems and manage **API gateways** to streamline communication.
-    * Specialize in developing versatile applications, from **multi-tenant e-commerce platforms** and **real-time inventory systems** to **Warehouse Management (WMS)** and **ERP solutions**.
-* **My Passion:** I'm all about clean code, robust design patterns (Factory, Observer, Decorator), and staying at the forefront of technology through continuous learning.
+My mission is to craft elegant, efficient, and maintainable software that solves real-world problems. I'm deeply committed to **Domain-Driven Design (DDD)** and **Clean Architecture** principles, ensuring long-term project health and adaptability.
+
+As a **Team Leader**, I lead and mentor development teams, driving projects from conception to successful deployment. As a **Senior Software Engineer**, I specialize in designing and implementing **microservices** and **modular monolithic** architectures using **ASP.NET Core** and **Flutter**. I'm skilled at integrating complex systems and managing **API gateways** to streamline communication. My expertise spans developing versatile applications, from **multi-tenant e-commerce platforms** and **real-time inventory systems** to **Warehouse Management (WMS)** and **ERP solutions**.
+
+I'm all about clean code, robust design patterns (Factory, Observer, Decorator), and staying at the forefront of technology through continuous learning.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Technical Expertise
 
-| Category         | Technologies & Tools                                                                        |
-| :--------------- | :------------------------------------------------------------------------------------------ |
-| **Languages** | `C#` • `Dart` • `Java` • `Python`                                                           |
-| **Frameworks** | `.NET Core` • `ASP.NET MVC` • `Flutter` • `Razor Pages`                                     |
-| **Databases** | `PostgreSQL` • `MS SQL` • `NoSQL (e.g., MongoDB)`                                           |
-| **Architecture** | `Clean Architecture` • `Domain-Driven Design (DDD)` • `Microservices` • `Modular Monolithic` • `CQRS` • `Repository Pattern` • `Specification Pattern` |
-| **Backend Libs** | `EF Core` • `Dapper` • `Mapster` • `SignalR` • `JWT` • `MediatR`                            |
-| **Dev Tools** | `Git` • `GitHub` • `Docker` • `RESTful APIs` • `Swagger/OpenAPI` • `Postman` • `Visual Studio` • `VS Code` • `NuGet` |
-| **Cloud/ML** | `Google Cloud Platform (APIs)` • `Python ML integration`                                    |
+My journey as a software engineer has equipped me with a robust and versatile technical toolkit. I primarily craft robust backend solutions using **C#** and the **.NET Core** ecosystem, leveraging frameworks like **ASP.NET MVC** and **Razor Pages** for web development, and integrating with advanced libraries such as **EF Core**, **Dapper**, **Mapster**, **SignalR**, **JWT**, and **MediatR** to build high-performance APIs. For data persistence, I'm adept with **PostgreSQL**, **MS SQL**, and NoSQL databases like **MongoDB**.
+
+On the frontend, I bring ideas to life with **Flutter** using **Dart**, creating intuitive cross-platform mobile experiences, expertly managing state with patterns like **Provider**, **Riverpod**, **BLoC**, and **GetX**, and styling interfaces with **Bootstrap** and **Tailwind CSS**. I consistently apply principles of **Clean Architecture** and **Domain-Driven Design (DDD)**, along with patterns like **Microservices**, **Modular Monolithic**, **CQRS**, and the **Repository/Specification Patterns**, to ensure my solutions are scalable, maintainable, and resilient. My workflow is streamlined with **Git**, **Docker**, **RESTful APIs**, and tools like **Swagger/OpenAPI** and **Postman**. I also have experience with **Python** for machine learning integrations and have worked with **Java** for native Android development, alongside cloud platforms like **Google Cloud Platform (APIs)**.
 
 ---
 
-### 💼 Professional Connect & Portfolio
+### 🌟 Showcase Your Work: Featured Projects
 
-Connect with me and explore my work:
+Here are a few projects that highlight my skills and passions. Feel free to dive into their repositories!
 
-[![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
-[![](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/ageelbaraa)
-[![ageelbaraa@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
+| Project Title | Description | Technologies |
+| :------------ | :---------- | :----------- |
+| [**E-commerce Platform**](LINK_TO_REPO_1) | Led the development of a multi-tenant e-commerce platform, enabling dynamic store creation and custom storefronts. | ASP.NET Core, Entity Framework, Microservices, PostgreSQL, Flutter |
+| [**Inventory Tracking System**](LINK_TO_REPO_2) | Built a real-time inventory tracking system and automated picking/packing workflows to optimize logistics. | ASP.NET Core, SignalR, MongoDB, Flutter |
+| [**Modular ERP Core / HR Module**](LINK_TO_REPO_3) | Collaborated on the design and implementation of a modular ERP core system and HR module with a focus on Clean Architecture. | .NET Core, Flutter, DDD, RESTful APIs |
+| [**Warehouse Management System**](LINK_TO_REPO_4) | Contributed to a comprehensive WMS, integrating with third-party workflow systems. | .NET Core, MS SQL, Integrations |
 ---
 
 ### 🌱 What I'm Currently Up To
@@ -49,7 +44,20 @@ Connect with me and explore my work:
 
 ---
 
-<p align="center"> 
+### 💼 Professional Connect & Portfolio
+
+Connect with me and explore my work:
+
+[![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
+[![See My Work on GitHub](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/ageelbaraa)
+[![Email Me](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
+<p align="center">
+  <br>
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ageelbaraa&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageelbaraa&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ageelbaraa/count.svg" />
 </p>
