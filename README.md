@@ -27,7 +27,6 @@ A passionate **Team Leader / Senior Software Engineer** with a strong track reco
 | **Databases** | `PostgreSQL` • `MS SQL` • `NoSQL (e.g., MongoDB)`                                           |
 | **Architecture** | `Clean Architecture` • `Domain-Driven Design (DDD)` • `Microservices` • `Modular Monolithic` • `CQRS` • `Repository Pattern` • `Specification Pattern` |
 | **Backend Libs** | `EF Core` • `Dapper` • `Mapster` • `SignalR` • `JWT` • `MediatR`                            |
-| **Frontend Libs**| `Bootstrap` • `Tailwind CSS` • `Provider` • `Riverpod` • `BLoC` • `GetX`                  |
 | **Dev Tools** | `Git` • `GitHub` • `Docker` • `RESTful APIs` • `Swagger/OpenAPI` • `Postman` • `Visual Studio` • `VS Code` • `NuGet` |
 | **Cloud/ML** | `Google Cloud Platform (APIs)` • `Python ML integration`                                    |
 
