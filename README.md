@@ -1,37 +1,45 @@
-<!-- GitHub Stats Card -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave&hide_title=false&hide_border=false&count_private=true&include_all_commits=true" width="420"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave&hide_border=false&count_private=true&include_all_commits=true" width="420"/>
 
-# Hey there, I’m Baraa Aqeel 👨‍💻
+# 👋 Welcome! I'm Baraa Aqeel
 
-### 🚀 Full-stack Developer | 🏗️ System Architect | 🧠 Tech Educator | 🛰️ Integration Specialist
+### 💻 Software Engineer | 📱 App Developer | 🧩 Systems Thinker | 🔧 Tech Builder
 
-[![LinkedIn](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ageelbaraa)
-[![Portfolio](https://img.shields.io/badge/visit-portfolio-orange?style=for-the-badge&logo=google-chrome)](https://your-website.com)
-[![GitHub](https://img.shields.io/badge/see-mywork-darkgray?style=for-the-badge&logo=github)](https://github.com/ageelbaraa)
-[![Email](https://img.shields.io/badge/email-me-red?style=for-the-badge&logo=gmail)](mailto:ageelbaraa@gmail.com)
-
----
-
-### 🧑‍💼 About Me
-
-I'm a Jordan-based **Senior Software Engineer** crafting scalable, real-time platforms across **e-commerce**, **logistics**, and **mobile ecosystems**.  
-I turn complex business rules into beautiful, maintainable code using:
-
-- ⚙️ **Clean Architecture**, **Design Patterns**, **Async-first APIs**
-- 🔗 Deep integrations with **3rd party APIs** (TikTok, LinkedIn, Snapchat, Shipping APIs)
-- 🛰️ Real-time messaging with **MQTT**, **SignalR**, **WebSockets**
-- 📊 Full-stack dashboards with **dynamic charts**, **user segmentation**, and **event analytics**
-
-> 💡 I believe clean code is good business.
+[![LinkedIn](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ageelbaraa)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-orange?style=for-the-badge&logo=google-chrome)](https://your-website.com)
+[![GitHub](https://img.shields.io/badge/Browse-Projects-darkgray?style=for-the-badge&logo=github)](https://github.com/ageelbaraa)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:ageelbaraa@gmail.com)
 
 ---
 
-### 🔥 Tech I'm Fluent In
+### 🧑‍💼 Who I Am
+
+I’m a technology professional who enjoys solving real-world problems through well-structured, efficient, and scalable software solutions.
+
+I build systems that work — whether it’s a web platform, mobile application, or backend service. I care deeply about clean architecture, long-term maintainability, and performance that scales as needs grow.
+
+I'm particularly drawn to roles that blend development with strategy — turning business goals into engineered realities.
+
+---
+
+### 🧠 What I Do
+
+- 💡 **Design** — Architect reliable, modular, and intuitive systems across platforms.
+- 🛠️ **Build** — Develop complete solutions, from frontend interfaces to backend logic.
+- 🔄 **Integrate** — Connect applications and services through secure and efficient APIs.
+- ⚙️ **Automate** — Streamline processes and implement tools to reduce friction.
+- 📈 **Optimize** — Refactor code and architecture to meet new challenges and performance goals.
+- 🤝 **Collaborate** — Work across teams to bring ideas to life and mentor where I can.
+
+---
+
+### 🛠️ Core Strengths
 
 ```bash
-🖥️ Backend      : .NET 8, ASP.NET Core MVC, Blazor, EF Core, CQRS, MediatR
-📱 Mobile       : Flutter, Dart, Platform Channels, BLE, State Management
-📡 Integrations : MQTT, WebSockets, RESTful APIs, OAuth2, TikTok API
-📦 Data         : SQL Server, PostgreSQL, EF Migrations, Dapper
-🧰 Tools        : GitHub, Azure DevOps, Swagger, Postman, Docker
-🎨 Frontend     : TailwindCSS, Bootstrap, Razor Pages, Metronic UI
+✅ Full-Stack Development
+✅ Scalable Architecture Design
+✅ Cross-Platform Mobile Apps
+✅ Backend APIs & Service Layers
+✅ System Integrations & Webhooks
+✅ Real-Time Messaging & Notifications
+✅ Testing, Debugging, and Maintenance
+✅ Continuous Improvement Mindset
