@@ -1,45 +1,56 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave&hide_border=false&count_private=true&include_all_commits=true" width="420"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave">
 
-# 👋 Welcome! I'm Baraa Aqeel
+### Hi there 👋 I'm Albara Mustafa!
 
-### 💻 Software Engineer | 📱 App Developer | 🧩 Systems Thinker | 🔧 Tech Builder
-
-[![LinkedIn](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ageelbaraa)
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-orange?style=for-the-badge&logo=google-chrome)](https://your-website.com)
-[![GitHub](https://img.shields.io/badge/Browse-Projects-darkgray?style=for-the-badge&logo=github)](https://github.com/ageelbaraa)
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:ageelbaraa@gmail.com)
+A passionate **Team Leader / Senior Software Engineer** with a strong track record of building scalable, high-performance solutions. I thrive on architecting robust systems, leading cross-functional teams, and fostering a culture of clean code and continuous technical growth.
 
 ---
 
-### 🧑‍💼 Who I Am
+### 🚀 About Me
 
-I’m a technology professional who enjoys solving real-world problems through well-structured, efficient, and scalable software solutions.
-
-I build systems that work — whether it’s a web platform, mobile application, or backend service. I care deeply about clean architecture, long-term maintainability, and performance that scales as needs grow.
-
-I'm particularly drawn to roles that blend development with strategy — turning business goals into engineered realities.
-
----
-
-### 🧠 What I Do
-
-- 💡 **Design** — Architect reliable, modular, and intuitive systems across platforms.
-- 🛠️ **Build** — Develop complete solutions, from frontend interfaces to backend logic.
-- 🔄 **Integrate** — Connect applications and services through secure and efficient APIs.
-- ⚙️ **Automate** — Streamline processes and implement tools to reduce friction.
-- 📈 **Optimize** — Refactor code and architecture to meet new challenges and performance goals.
-- 🤝 **Collaborate** — Work across teams to bring ideas to life and mentor where I can.
+* **My Mission:** To craft elegant, efficient, and maintainable software that solves real-world problems. I'm deeply committed to **Domain-Driven Design (DDD)** and **Clean Architecture** principles, ensuring long-term project health and adaptability.
+* **What I Do:**
+    * Lead and mentor development teams, driving projects from conception to successful deployment.
+    * Design and implement **microservices** and **modular monolithic** architectures using **ASP.NET Core** and **Flutter**.
+    * Integrate complex systems and manage **API gateways** to streamline communication.
+    * Specialize in developing versatile applications, from **multi-tenant e-commerce platforms** and **real-time inventory systems** to **Warehouse Management (WMS)** and **ERP solutions**.
+* **My Passion:** I'm all about clean code, robust design patterns (Factory, Observer, Decorator), and staying at the forefront of technology through continuous learning.
 
 ---
 
-### 🛠️ Core Strengths
+### 🛠️ My Tech Stack
 
-```bash
-✅ Full-Stack Development
-✅ Scalable Architecture Design
-✅ Cross-Platform Mobile Apps
-✅ Backend APIs & Service Layers
-✅ System Integrations & Webhooks
-✅ Real-Time Messaging & Notifications
-✅ Testing, Debugging, and Maintenance
-✅ Continuous Improvement Mindset
+| Category         | Technologies & Tools                                                                        |
+| :--------------- | :------------------------------------------------------------------------------------------ |
+| **Languages** | `C#` • `Dart` • `Java` • `Python`                                                           |
+| **Frameworks** | `.NET Core` • `ASP.NET MVC` • `Flutter` • `Razor Pages`                                     |
+| **Databases** | `PostgreSQL` • `MS SQL` • `NoSQL (e.g., MongoDB)`                                           |
+| **Architecture** | `Clean Architecture` • `Domain-Driven Design (DDD)` • `Microservices` • `Modular Monolithic` • `CQRS` • `Repository Pattern` • `Specification Pattern` |
+| **Backend Libs** | `EF Core` • `Dapper` • `Mapster` • `SignalR` • `JWT` • `MediatR`                            |
+| **Frontend Libs**| `Bootstrap` • `Tailwind CSS` • `Provider` • `Riverpod` • `BLoC` • `GetX`                  |
+| **Dev Tools** | `Git` • `GitHub` • `Docker` • `RESTful APIs` • `Swagger/OpenAPI` • `Postman` • `Visual Studio` • `VS Code` • `NuGet` |
+| **Cloud/ML** | `Google Cloud Platform (APIs)` • `Python ML integration`                                    |
+
+---
+
+### 💼 Professional Connect & Portfolio
+
+Connect with me and explore my work:
+
+[![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
+[![](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/ageelbaraa)
+[![ageelbaraa@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
+---
+
+### 🌱 What I'm Currently Up To
+
+* **Working On:** Continuously enhancing scalable backend services and responsive cross-platform mobile applications.
+* **Learning/Exploring:** Deepening my expertise in cloud-native solutions and advanced microservices patterns to build even more resilient systems.
+* **Collaborating On:** Always open to interesting projects, especially those that involve complex system design or challenging performance optimizations. Feel free to reach out!
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ageelbaraa/count.svg" />
+</p>
