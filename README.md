@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=aqeelbaraa&show_icons=true&theme=synthwave">
 
 ### Hi there 👋 I'm Albara Mustafa!
 
