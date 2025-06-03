@@ -53,12 +53,6 @@ Connect with me and explore my work:
 [![Email Me](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
 
 <p align="center">
-  <br>
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ageelbaraa&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageelbaraa&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ageelbaraa/count.svg" />
 </p>
