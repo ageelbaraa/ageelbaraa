@@ -1,34 +1,37 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave" width="400">
+<!-- GitHub Stats Card -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ageelbaraa&show_icons=true&theme=synthwave&hide_title=false&hide_border=false&count_private=true&include_all_commits=true" width="420"/>
 
-# 👋 Hello! I'm Baraa Aqeel
+# Hey there, I’m Baraa Aqeel 👨‍💻
+
+### 🚀 Full-stack Developer | 🏗️ System Architect | 🧠 Tech Educator | 🛰️ Integration Specialist
 
 [![LinkedIn](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ageelbaraa)
 [![Portfolio](https://img.shields.io/badge/visit-portfolio-orange?style=for-the-badge&logo=google-chrome)](https://your-website.com)
-[![GitHub](https://img.shields.io/badge/see-mywork-blue?style=for-the-badge&logo=github)](https://github.com/ageelbaraa)
-[![Gmail](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
+[![GitHub](https://img.shields.io/badge/see-mywork-darkgray?style=for-the-badge&logo=github)](https://github.com/ageelbaraa)
+[![Email](https://img.shields.io/badge/email-me-red?style=for-the-badge&logo=gmail)](mailto:ageelbaraa@gmail.com)
 
 ---
 
-🎯 **Senior Software Engineer** with a strong track record in designing, building, and scaling **e-commerce**, **logistics**, and **SaaS platforms** using modern full-stack technologies.
+### 🧑‍💼 About Me
 
-🚀 Backend specialist in **.NET 8**, **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**, applying **clean architecture** and **design patterns** (CQRS, MediatR, Factory, Singleton).
+I'm a Jordan-based **Senior Software Engineer** crafting scalable, real-time platforms across **e-commerce**, **logistics**, and **mobile ecosystems**.  
+I turn complex business rules into beautiful, maintainable code using:
 
-📱 Cross-platform mobile app developer using **Flutter**, including deep integration with device hardware, BLE, and native SDKs (e.g., Phomemo, DJI).
+- ⚙️ **Clean Architecture**, **Design Patterns**, **Async-first APIs**
+- 🔗 Deep integrations with **3rd party APIs** (TikTok, LinkedIn, Snapchat, Shipping APIs)
+- 🛰️ Real-time messaging with **MQTT**, **SignalR**, **WebSockets**
+- 📊 Full-stack dashboards with **dynamic charts**, **user segmentation**, and **event analytics**
 
-🔧 Skilled in building real-time systems with **MQTT**, **WebSockets**, **SignalR**, and notification services spanning dashboards, users, and in-app communication.
-
-🧩 Passionate about creating **modular**, **API-first**, and **well-documented** codebases using tools like Swagger, Postman, and GitHub Actions.
-
-🧠 Lifelong learner — currently exploring **AI integration** in business logic, **state management patterns in Flutter**, and **Azure Developer Certification**.
+> 💡 I believe clean code is good business.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🔥 Tech I'm Fluent In
+
 ```bash
-💻 .NET 8, ASP.NET Core, MVC, Razor, Blazor, EF Core  
-📱 Flutter, Dart, Provider, Riverpod, Platform Channels  
-🛢️ SQL Server, PostgreSQL, LINQ, Dapper  
-📡 MQTT, WebSockets, REST APIs  
-🛠️ Git, GitHub, Azure DevOps, Docker  
-📈 Metronic, TailwindCSS, Bootstrap  
-🌐 OAuth2, TikTok API, LinkedIn API, Firebase Auth  
+🖥️ Backend      : .NET 8, ASP.NET Core MVC, Blazor, EF Core, CQRS, MediatR
+📱 Mobile       : Flutter, Dart, Platform Channels, BLE, State Management
+📡 Integrations : MQTT, WebSockets, RESTful APIs, OAuth2, TikTok API
+📦 Data         : SQL Server, PostgreSQL, EF Migrations, Dapper
+🧰 Tools        : GitHub, Azure DevOps, Swagger, Postman, Docker
+🎨 Frontend     : TailwindCSS, Bootstrap, Razor Pages, Metronic UI
