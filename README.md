@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageelbaraa&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
 </p>
 
